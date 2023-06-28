@@ -17,7 +17,7 @@
 // * 15. Getting and setting articles to localStorage
 // * 16. Creating the Ui for the Browse URL History & the Display Results
 // * 17. Adding copied to clipboard functionality with changing ui as per the copied state
-// * 18. Deployment on Vercel
+// * 18. Finally, Deployment on Vercel
 
 
 
